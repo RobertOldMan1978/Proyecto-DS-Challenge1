@@ -26,7 +26,7 @@ A continuación se presentan los gráficos y resultados clave del análisis:
 (img/
 
 
-![Gráfico de Ventas por Tienda.(images/grafico_ticket_promedio.png)
+![Gráfico de Ventas por Tienda.(IMG/10 prod bottom.png)
 
 
 Este gráfico muestra las ventas totales por tienda durante los diferentes trimestres del año.
