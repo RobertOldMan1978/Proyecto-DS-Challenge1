@@ -35,6 +35,15 @@ Este gráfico muestra las ventas totales por tienda durante los diferentes trime
 
 ![Gráfico de Ticket Promedio](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
 
+Componentes del Indicador ICDT+
+	Variable 	Qué mide 	Interpretación 	Peso
+0 	Ventas_Totales 	Total en pesos vendidos (en millones) 	💰 Rentabilidad 	0.40
+1 	Productos_Vendidos 	Número total de artículos vendidos 	📦 Productividad 	0.25
+2 	Calificación_Promedio 	Promedio de calificación (1 a 5) 	🌟 Calidad de servicio 	0.20
+3 	Costo_Promedio_Envio 	Costo medio de envío por tienda 	🚚 Eficiencia logística 	0.10 (invertido: menor = mejor)
+4 	Ticket_Promedio 	Precio promedio por producto 	💵 Valor por venta 	0.05
+
+
 Este gráfico muestra el ticket promedio por tienda, lo que nos ayuda a evaluar el valor medio de cada compra.
 
 ### Tabla 1: Resumen de Indicadores de Desempeño
