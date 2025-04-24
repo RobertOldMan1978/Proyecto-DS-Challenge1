@@ -23,8 +23,11 @@ Este proyecto consiste en el análisis de ventas y facturación de productos en 
 A continuación se presentan los gráficos y resultados clave del análisis:
 
 ### Gráfico 1: Ventas por Tienda
+(img/
 
-![Gráfico de Ventas por Tienda](images/grafico_ventas_tienda.png)
+
+![Gráfico de Ventas por Tienda.(images/grafico_ticket_promedio.png)
+
 
 Este gráfico muestra las ventas totales por tienda durante los diferentes trimestres del año.
 
