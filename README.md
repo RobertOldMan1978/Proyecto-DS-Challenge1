@@ -33,9 +33,7 @@ Este gráfico muestra las ventas totales por tienda durante los diferentes trime
 
 ### Gráfico 2: Ticket Promedio por Tienda
 
-![Gráfico de Ticket Promedio]
-
-(https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
+![Gráfico de Ticket Promedio](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
 
 Este gráfico muestra el ticket promedio por tienda, lo que nos ayuda a evaluar el valor medio de cada compra.
 
