@@ -39,30 +39,50 @@ Este proyecto consiste en el análisis de ventas, facturación, categorias y pro
 
 Este informe evalúa el desempeño de las tiendas mediante un índice compuesto (ICDT+) que considera:
 - Ventas en millones 💰
+Se analiza desde 2020, con foco especial en el desempeño desde 2022.
+
+
+## 🗓️ Ventas Anuales por Tienda (en millones COP)
+
+| Tienda   |   2020 |   2021 |   2022 |   2023 |   Total General |
+|:---------|-------:|-------:|-------:|-------:|----------------:|
+| Tienda_1 | 368.93 | 362.12 | 316.57 | 103.26 |         1150.88 |
+| Tienda_2 | 320.47 | 351.22 | 358.23 |  86.43 |         1116.34 |
+| Tienda_3 | 321.71 | 362.95 | 350.44 |  62.92 |         1098.02 |
+| Tienda_4 | 330.85 | 347.82 | 302.22 |  57.48 |         1038.38 |
+
+## 🗓️ Ventas Trimestrales por Tienda (en millones COP)
+
+| Trimestre  | 2023 T1 | 2022 T4 | 2022 T3 | 2022 T2 | 2022 T1 | 2021 T4 | 2021 T3 | 2021 T2 | 2021 T1 | 2020 T4 | 2020 T3 | 2020 T2 | 2020 T1 |
+|------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| **Tienda_1** | $103,26M | $72,54M | $92,16M | $72,47M | $79,40M | $77,03M | $116,32M | $81,25M | $87,52M | $69,23M | $96,46M | $98,55M | $104,70M |
+| **Tienda_2** | $86,43M | $91,89M | $85,61M | $93,09M | $87,64M | $89,87M | $96,57M  | $83,67M | $81,10M | $84,12M | $78,15M | $79,17M | $79,03M  |
+| **Tienda_3** | $62,92M | $87,59M | $87,88M | $85,69M | $89,28M | $133,05M| $75,57M  | $83,44M | $70,89M | $75,24M | $86,15M | $78,93M | $81,38M  |
+| **Tienda_4** | $57,48M | $67,34M | $72,66M | $64,33M | $97,89M | $85,66M | $92,20M  | $77,48M | $92,48M | $75,47M | $86,33M | $98,34M | $70,71M  |
+
+Tanto en el analisis acumulado como en detalle el orden de ingresos son Tienda_1 a Tienda_4 Descendente
+
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Cantidad de productos vendidos 📦
 - Calificación del cliente 🌟
 - Costo promedio de envío 🚚
 - Ticket promedio 💵
-
-Se analiza desde 2020, con foco especial en el desempeño desde 2022.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Gráficos y Resultados
