@@ -164,7 +164,7 @@ Al parecer la satisfaccion esta dada cuando uno se compra un juguete... En cuant
 
 # Top 10 mas Vendidos Tienda 1
 
-![Gráfico de Venta Mensual y media de tres meses]
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20top%20bottom.png)
 
 
 ## Bottom menos vendidos total compañia
