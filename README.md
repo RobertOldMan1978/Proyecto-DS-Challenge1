@@ -112,6 +112,7 @@ Este resumen muestra las unidades vendidas, las ventas totales en pesos colombia
 
 
 
+![Gráfico de Venta Mensual y media de tres meses](IMG/media movil 3 meses cat full ticket prom.png)
 
 
 
