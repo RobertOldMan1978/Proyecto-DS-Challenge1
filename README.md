@@ -112,7 +112,37 @@ Este resumen muestra las unidades vendidas, las ventas totales en pesos colombia
 
 
 
-![Gráfico de Venta Mensual y media de tres meses](IMG/media movil 3 meses cat full ticket prom.png)
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/media%20movil%203%20meses%20cat%20full%20ticket%20prom.png)
+
+Nuevamente las tiendas 3 y 4 tienen los peores indicadores.
+
+# Calificación del cliente 🌟
+
+En este segmento se analizo la satisfaccion del cliente, y contrario a lo que se podria pensar, no necesariamente mientras mas pague por un producto, mejor será atendido.
+
+
+| Tienda    | Promedio Calificación | Cantidad de Respuestas |
+|-----------|-----------------------:|------------------------:|
+| Tienda_3  | 4.05                   | 2,359                  |
+| Tienda_2  | 4.04                   | 2,359                  |
+| Tienda_4  | 4.00                   | 2,358                  |
+| Tienda_1  | 3.98                   | 2,359                  |
+
+
+| Categoría del Producto     | Promedio Calificación | Cantidad de Respuestas | Ticket Promedio (COP) |
+|----------------------------|------------------------:|------------------------:|------------------------:|
+| **Juguetes**               | 4.07                    | 1,290                   | $57,058                |
+| **Muebles**                | 4.03                    | 1,886                   | $401,729               |
+| **Electrodomésticos**      | 4.01                    | 1,149                   | $1,152,960             |
+| **Libros**                 | 4.00                    | 742                     | $50,803                |
+| **Instrumentos musicales** | 4.00                    | 753                     | $463,177               |
+| **Electrónicos**           | 3.99                    | 1,772                   | $937,120               |
+| **Deportes y diversión**   | 3.99                    | 1,113                   | $128,462               |
+| **Artículos para el hogar**| 3.98                    | 730                     | $78,876                |
+
+Al parecer la satisfaccion esta dada cuando uno se compra un juguete... En cuanto al comportamiento de las tiendas tienden al promedio, no hay alguna que destaque.
+
+![Gráfico de Venta Mensual y media de tres meses]
 
 
 
@@ -127,7 +157,6 @@ Este resumen muestra las unidades vendidas, las ventas totales en pesos colombia
 
 
 
-- Calificación del cliente 🌟
 - Costo promedio de envío 🚚
 - Ticket promedio 💵
 
