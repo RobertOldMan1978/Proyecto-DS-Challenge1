@@ -260,7 +260,7 @@ Los electrodomésticos y electrónicos tienen los costos de envío más elevados
 ![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/costo%20promedio%20evolucion%20media%20movil.png)
 
 
-# 📊 Indicador Compuesto ICDT+
+## 🧮 Indicador Compuesto de Desempeño (ICDT+)
 
 Este indicador resume el rendimiento global de cada tienda combinando factores clave como ventas, volumen de productos vendidos, calidad de servicio, eficiencia logística y ticket promedio.
 
@@ -279,15 +279,34 @@ Este indicador resume el rendimiento global de cada tienda combinando factores c
 | **Ticket_Promedio**  | Precio promedio por producto             | 💵 Valor por venta          | 0.05  |
 
 
-## 🧮 Indicador Compuesto de Desempeño (ICDT+)
+# Indicador Compuesto de Desempeño (ICDT+) desde el inicio.
 
-Este indicador resume el rendimiento global de cada tienda combinando factores clave como ventas, volumen de productos vendidos, calidad de servicio, eficiencia logística y ticket promedio.
+| Tienda    | Ventas Totales (M COP) | Productos Vendidos | Calificación Promedio | Costo Promedio Envío (COP) | Ticket Promedio (COP) | ICDT+ |
+|-----------|------------------------:|--------------------:|------------------------:|----------------------------:|------------------------:|------:|
+| Tienda_2  | 1,116.34                | 2,359               | 4.04                    | $25,216                     | $473,227               | 0.762 |
+| Tienda_3  | 1,098.02                | 2,359               | 4.05                    | $24,806                     | $465,460               | 0.736 |
+| Tienda_1  | 1,150.88                | 2,359               | 3.98                    | $26,019                     | $487,868               | 0.700 |
+| Tienda_4  | 1,038.38                | 2,358               | 4.00                    | $23,459                     | $440,363               | 0.153 |
 
-> **Nota:** A menor costo de envío, mayor impacto positivo en el ICDT+. Los valores han sido normalizados para obtener un puntaje final entre 0 y 1.
 
-### Resultados:
+# 🧭 Evolución Trimestral del Indicador ICDT+
 
-... [tabla ICDT+ aquí]
+La siguiente tabla muestra la evolución del desempeño compuesto (**ICDT+**) de cada tienda a lo largo de los trimestres desde el año 2020 hasta el primer trimestre de 2023.
+
+Los valores están normalizados entre 0 y 1. Un mayor valor indica mejor rendimiento general de la tienda en ese trimestre.
+
+| Tienda    | 2020 T1 | 2020 T2 | 2020 T3 | 2020 T4 | 2021 T1 | 2021 T2 | 2021 T3 | 2021 T4 | 2022 T1 | 2022 T2 | 2022 T3 | 2022 T4 | 2023 T1 |
+|-----------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
+| Tienda_1  | 0.700   | 0.489   | 0.684   | 0.180   | 0.488   | 0.486   | 0.864   | 0.300   | 0.260   | 0.531   | 0.824   | 0.164   | 0.700   |
+| Tienda_2  | 0.266   | 0.290   | 0.350   | 0.686   | 0.588   | 0.945   | 0.482   | 0.290   | 0.366   | 0.566   | 0.484   | 0.910   | 0.578   |
+| Tienda_3  | 0.602   | 0.318   | 0.482   | 0.331   | 0.182   | 0.435   | 0.100   | 0.832   | 0.586   | 0.823   | 0.721   | 0.600   | 0.414   |
+| Tienda_4  | 0.278   | 0.755   | 0.367   | 0.718   | 0.773   | 0.333   | 0.470   | 0.313   | 0.725   | 0.100   | 0.100   | 0.232   | 0.298   |
+
+
+
+
+
+
 
 
 
