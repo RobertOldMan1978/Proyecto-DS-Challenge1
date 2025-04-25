@@ -162,6 +162,11 @@ Al parecer la satisfaccion esta dada cuando uno se compra un juguete... En cuant
 | Cama box                   | Muebles                   | 199              | $523,105               |
 | Bloques de construcción    | Juguetes                  | 199              | $34,181                |
 
+# Top 10 mas Vendidos Tienda 1
+
+![Gráfico de Venta Mensual y media de tres meses]
+
+
 ## Bottom menos vendidos total compañia
 
 | Producto                    | Categoría              | Cantidad Vendida | Ticket Promedio (COP) |
@@ -176,6 +181,10 @@ Al parecer la satisfaccion esta dada cuando uno se compra un juguete... En cuant
 | Set de vasos                | Artículos para el hogar | 169              | $33,043                |
 | Olla de presión             | Artículos para el hogar | 172              | $75,167                |
 | Smartwatch                  | Electrónicos            | 172              | $174,010               |
+
+# Bottom menos vendidos Tienda 1
+
+![Gráfico de Venta Mensual y media de tres meses]
 
 ## 🏆 Top 5 Productos por Tienda
 
