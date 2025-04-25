@@ -249,13 +249,15 @@ Los electrodomésticos y electrónicos tienen los costos de envío más elevados
 | **Libros**                 | $2,776                         | 742              |
 
 
-
+# El costo promedio del envio de los productos esta dentro del rango del 5 al 6 porciento del articulo, por lo tanto su comportamiento es lineal al precio.
 
 ![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/porcentaje%20consto%20envio%20sobre%20venta.png)
 
 
 
-![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
+# La tienda numero 1 es la que maneja los costos mas altos de envio, sin embargo es consecuente a su nivel de venta, lo contrario pasa con la tienda numero 4
+
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/costo%20promedio%20evolucion%20media%20movil.png)
 
 
 
