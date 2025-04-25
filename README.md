@@ -315,30 +315,31 @@ Esta tabla resume los indicadores clave de cada tienda con base en el análisis 
 | Tienda_4  | **0.153**   | Desempeño inestable y débil en 2022–2023          | 4.00         | 1,038.38                | $440,363                | **$23,459**             |
 
 
-🧾 ### Análisis
+# 🧾 Análisis Final
+
 📉 Tienda_4 — Candidata a vender
 
-    Tiene el ICDT+ más bajo con diferencia: 0.153 frente a 0.7+ de las demás.
+- Tiene el ICDT+ más bajo con diferencia: 0.153 frente a 0.7+ de las demás.
 
-    Su evolución trimestral muestra inconsistencia severa: cayó a 0.1 en 2022 T2 y T3 y no ha recuperado el ritmo.
+- Su evolución trimestral muestra inconsistencia severa: cayó a 0.1 en 2022 T2 y T3 y no ha recuperado el ritmo.
 
-    Aunque su costo de envío es el más bajo, no compensa su baja productividad ni calidad consolidada.
+- Aunque su costo de envío es el más bajo, no compensa su baja productividad ni calidad consolidada.
 
-    Su ticket promedio y ventas están entre las más bajas del grupo.
+- Su ticket promedio y ventas están entre las más bajas del grupo.
 
 📈 Tiendas 1, 2 y 3 — Potenciales a mantener
 
-    Tienen ICDT+ altos (0.7+), lo que indica un buen desempeño global.
+- Tienen ICDT+ altos (0.7+), lo que indica un buen desempeño global.
 
-    Tienda_2 es la más balanceada: buen ICDT+, evolución estable y buena calificación.
+- Tienda_2 es la más balanceada: buen ICDT+, evolución estable y buena calificación.
 
-    Tienda_1 tiene la mayor venta total y ticket promedio, aunque su variabilidad trimestral podría ser una bandera amarilla.
+- Tienda_1 tiene la mayor venta total y ticket promedio, aunque su variabilidad trimestral podría ser una bandera amarilla.
 
-    Tienda_3 destaca en calificaciones y muestra una mejora sostenida en los trimestres recientes.
+- Tienda_3 destaca en calificaciones y muestra una mejora sostenida en los trimestres recientes.
 
 ✅ Conclusión
 
-    Yo vendería Tienda_4.
+- Yo vendería Tienda_4.
 
     Pese a tener un bajo costo logístico, su desempeño global en ventas, estabilidad y productividad no justifica mantenerla frente a las otras tres tiendas más consistentes y rentables.
 
