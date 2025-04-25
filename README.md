@@ -251,7 +251,7 @@ Los electrodomésticos y electrónicos tienen los costos de envío más elevados
 
 
 
-![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/porcentaje%20consto%20envio%20sobre%20venta.png)
 
 
 
