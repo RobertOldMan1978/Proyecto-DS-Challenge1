@@ -213,12 +213,49 @@ Este resumen muestra los productos más vendidos (por cantidad) en cada tienda, 
 |           | Dashboards con Power BI    | Libros                    | 56               | $35,546                |
 |           | Carrito de control remoto  | Juguetes                  | 55               | $72,985                |
 
+# Los productos mas y menos vendidos, responden al análisis de las categorias y no hay sorpresas...
+
+
+# 📦 Análisis de Costos de Envío
+
+### Por Tienda
+Las tiendas mantienen un promedio de costo de envío relativamente homogéneo, con Tienda_4 siendo la más eficiente en términos de costos logísticos.
+
+### Por Categoría de Producto
+Los electrodomésticos y electrónicos tienen los costos de envío más elevados, mientras que los libros y juguetes registran los costos más bajos.
+
+
+🚚 Promedio de Costo de Envío por Tienda
+
+| Tienda    | Promedio Costo de Envío (COP) | Total de Envíos |
+|-----------|-------------------------------:|-----------------:|
+| Tienda_1  | $26,019                        | 2,359            |
+| Tienda_2  | $25,216                        | 2,359            |
+| Tienda_3  | $24,806                        | 2,359            |
+| Tienda_4  | $23,459                        | 2,358            |
+
+
+📦 Promedio de Costo de Envío por Categoría de Producto
+
+| Categoría del Producto     | Promedio Costo de Envío (COP) | Total de Envíos |
+|----------------------------|-------------------------------:|-----------------:|
+| **Electrodomésticos**      | $61,267                        | 1,149            |
+| **Electrónicos**           | $49,922                        | 1,772            |
+| **Instrumentos musicales** | $24,574                        | 753              |
+| **Muebles**                | $21,448                        | 1,886            |
+| **Deportes y diversión**   | $6,911                         | 1,113            |
+| **Artículos para el hogar**| $4,262                         | 730              |
+| **Juguetes**               | $3,117                         | 1,290            |
+| **Libros**                 | $2,776                         | 742              |
 
 
 
 
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
 
 
+
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
 
 
 
