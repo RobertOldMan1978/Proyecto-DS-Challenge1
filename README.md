@@ -142,7 +142,69 @@ En este segmento se analizo la satisfaccion del cliente, y contrario a lo que se
 
 Al parecer la satisfaccion esta dada cuando uno se compra un juguete... En cuanto al comportamiento de las tiendas tienden al promedio, no hay alguna que destaque.
 
-![Gráfico de Venta Mensual y media de tres meses]
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/calificacion%20media%206%20meses%20x%20tienda.png)
+
+
+# Productos mas y menos vendido y su aporte a la venta
+
+## Top mas vendidos total compañia
+
+| Producto                   | Categoría                | Cantidad Vendida | Ticket Promedio (COP) |
+|----------------------------|---------------------------|------------------:|------------------------:|
+| Mesa de noche              | Muebles                   | 210              | $278,188               |
+| Microondas                 | Electrodomésticos         | 206              | $561,648               |
+| Carrito de control remoto | Juguetes                  | 206              | $71,688                |
+| Batería                    | Instrumentos musicales     | 203              | $728,110               |
+| Cama king                  | Muebles                   | 201              | $675,524               |
+| Modelado predictivo        | Libros                    | 200              | $63,080                |
+| Secadora de ropa           | Electrodomésticos         | 200              | $1,051,190             |
+| Set de ollas               | Artículos para el hogar   | 200              | $152,532               |
+| Cama box                   | Muebles                   | 199              | $523,105               |
+| Bloques de construcción    | Juguetes                  | 199              | $34,181                |
+
+## Bottom menos vendidos total compañia
+
+| Producto                    | Categoría              | Cantidad Vendida | Ticket Promedio (COP) |
+|-----------------------------|-------------------------|------------------:|------------------------:|
+| Celular ABXY                | Electrónicos            | 157              | $1,005,803             |
+| Auriculares con micrófono   | Electrónicos            | 158              | $143,978               |
+| Mochila                     | Deportes y diversión    | 163              | $98,563                |
+| Guitarra eléctrica          | Instrumentos musicales   | 165              | $784,272               |
+| Ciencia de datos con Python| Libros                  | 166              | $54,434                |
+| Asistente virtual           | Electrónicos            | 167              | $206,396               |
+| Sillón                      | Muebles                 | 168              | $242,838               |
+| Set de vasos                | Artículos para el hogar | 169              | $33,043                |
+| Olla de presión             | Artículos para el hogar | 172              | $75,167                |
+| Smartwatch                  | Electrónicos            | 172              | $174,010               |
+
+## 🏆 Top 5 Productos por Tienda
+
+Este resumen muestra los productos más vendidos (por cantidad) en cada tienda, junto con su categoría y ticket promedio en pesos colombianos (COP).
+
+| Tienda    | Producto                    | Categoría                | Cantidad Vendida | Ticket Promedio (COP) |
+|-----------|-----------------------------|---------------------------|------------------:|------------------------:|
+| **Tienda_1** | Armario                    | Muebles                   | 60               | $491,038               |
+|           | Microondas                 | Electrodomésticos         | 60               | $579,358               |
+|           | TV LED UHD 4K              | Electrónicos              | 60               | $2,369,170             |
+|           | Secadora de ropa           | Electrodomésticos         | 58               | $1,018,317             |
+|           | Bloques de construcción    | Juguetes                  | 56               | $33,316                |
+| **Tienda_2** | Iniciando en programación | Libros                    | 65               | $48,120                |
+|           | Microondas                 | Electrodomésticos         | 62               | $583,742               |
+|           | Batería                    | Instrumentos musicales     | 61               | $756,972               |
+|           | Guitarra acústica          | Instrumentos musicales     | 58               | $321,524               |
+|           | Pandereta                  | Instrumentos musicales     | 58               | $64,226                |
+| **Tienda_3** | Kit de bancas              | Muebles                   | 57               | $292,979               |
+|           | Cama king                  | Muebles                   | 56               | $693,477               |
+|           | Mesa de comedor            | Muebles                   | 56               | $255,823               |
+|           | Mesa de noche              | Muebles                   | 55               | $279,373               |
+|           | Set de ollas               | Artículos para el hogar   | 55               | $158,118               |
+| **Tienda_4** | Cama box                   | Muebles                   | 62               | $531,392               |
+|           | Cubertería                 | Artículos para el hogar   | 59               | $44,903                |
+|           | Cama king                  | Muebles                   | 56               | $670,632               |
+|           | Dashboards con Power BI    | Libros                    | 56               | $35,546                |
+|           | Carrito de control remoto  | Juguetes                  | 55               | $72,985                |
+
+
 
 
 
