@@ -347,6 +347,13 @@ Esta tabla resume los indicadores clave de cada tienda con base en el análisis 
     Pese a tener un bajo costo logístico, su desempeño global en ventas, estabilidad y productividad no justifica mantenerla frente a las otras tres tiendas más consistentes y rentables.
 
 
+-
+-
+-
+-
+-
+-
+-
 
 
 
@@ -355,10 +362,10 @@ Esta tabla resume los indicadores clave de cada tienda con base en el análisis 
 
 
 
+### Desarrollado con 💡 por Roberto Lorca Pacheco
+✉️ Email: r.lorca@cuerosconac.cl
+🐙 GitHub: RobertOldMan1978
 
-## Instrucciones para Ejecutar el Proyecto
 
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+
 
