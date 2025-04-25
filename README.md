@@ -289,7 +289,7 @@ Este indicador resume el rendimiento global de cada tienda combinando factores c
 | Tienda_4  | 1,038.38                | 2,358               | 4.00                    | $23,459                     | $440,363               | 0.153 |
 
 
-# 🧭 Evolución Trimestral del Indicador ICDT+
+## 🧭 Evolución Trimestral del Indicador ICDT+
 
 La siguiente tabla muestra la evolución del desempeño compuesto (**ICDT+**) de cada tienda a lo largo de los trimestres desde el año 2020 hasta el primer trimestre de 2023.
 
@@ -301,6 +301,46 @@ Los valores están normalizados entre 0 y 1. Un mayor valor indica mejor rendimi
 | Tienda_2  | 0.266   | 0.290   | 0.350   | 0.686   | 0.588   | 0.945   | 0.482   | 0.290   | 0.366   | 0.566   | 0.484   | 0.910   | 0.578   |
 | Tienda_3  | 0.602   | 0.318   | 0.482   | 0.331   | 0.182   | 0.435   | 0.100   | 0.832   | 0.586   | 0.823   | 0.721   | 0.600   | 0.414   |
 | Tienda_4  | 0.278   | 0.755   | 0.367   | 0.718   | 0.773   | 0.333   | 0.470   | 0.313   | 0.725   | 0.100   | 0.100   | 0.232   | 0.298   |
+
+
+## 🧾 Resumen Ejecutivo de Desempeño por Tienda
+
+Esta tabla resume los indicadores clave de cada tienda con base en el análisis del ICDT+, su evolución histórica, calificaciones, ventas y eficiencia logística.
+
+| Tienda    | ICDT+ Final | Evolución Trimestral                              | Calificación | Ventas Totales (M COP) | Ticket Promedio (COP) | Costo Envío Prom. (COP) |
+|-----------|-------------|----------------------------------------------------|--------------|------------------------:|------------------------:|-------------------------:|
+| Tienda_1  | 0.700       | Muy variable, caídas fuertes (2020 T4, 2022 T1, T4)| 3.98         | 1,150.88                | $487,868                | $26,019                 |
+| Tienda_2  | **0.762**   | Sólida, estable, recuperación visible              | 4.04         | 1,116.34                | $473,227                | $25,216                 |
+| Tienda_3  | 0.736       | Altibajos fuertes, pero mejora reciente            | **4.05**     | 1,098.02                | $465,460                | $24,806                 |
+| Tienda_4  | **0.153**   | Desempeño inestable y débil en 2022–2023          | 4.00         | 1,038.38                | $440,363                | **$23,459**             |
+
+
+🧾 ### Análisis
+📉 Tienda_4 — Candidata a vender
+
+    Tiene el ICDT+ más bajo con diferencia: 0.153 frente a 0.7+ de las demás.
+
+    Su evolución trimestral muestra inconsistencia severa: cayó a 0.1 en 2022 T2 y T3 y no ha recuperado el ritmo.
+
+    Aunque su costo de envío es el más bajo, no compensa su baja productividad ni calidad consolidada.
+
+    Su ticket promedio y ventas están entre las más bajas del grupo.
+
+📈 Tiendas 1, 2 y 3 — Potenciales a mantener
+
+    Tienen ICDT+ altos (0.7+), lo que indica un buen desempeño global.
+
+    Tienda_2 es la más balanceada: buen ICDT+, evolución estable y buena calificación.
+
+    Tienda_1 tiene la mayor venta total y ticket promedio, aunque su variabilidad trimestral podría ser una bandera amarilla.
+
+    Tienda_3 destaca en calificaciones y muestra una mejora sostenida en los trimestres recientes.
+
+✅ Conclusión
+
+    Yo vendería Tienda_4.
+
+    Pese a tener un bajo costo logístico, su desempeño global en ventas, estabilidad y productividad no justifica mantenerla frente a las otras tres tiendas más consistentes y rentables.
 
 
 
