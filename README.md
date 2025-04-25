@@ -64,9 +64,33 @@ Tanto en el analisis acumulado como en detalle el orden de ingresos son Tienda_1
 
 ### Gráfico de Venta Mensual y media de tres meses
 
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/vta_mens_xtienda%20movil.png)
+
+### Gráfico de Venta Mensual y media de tres meses, tienda por tienda
+
 ![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/vta_mens_xtienda_barras.png)
 
-![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/vta_mens_xtienda2.png)
+
+
+# Análisis de Venta por Categoría 📦
+
+### 📊 Ventas Totales por Categoría (2020–2023)
+
+Las cifras están expresadas en millones de pesos colombianos (COP).
+
+| Categoría del Producto     | 2020     | 2021     | 2022     | 2023     |
+|----------------------------|----------|----------|----------|----------|
+| **Electrónicos**           | $496,08M | $559,41M | $486,30M | $118,78M |
+| **Electrodomésticos**      | $423,74M | $435,33M | $386,63M | $79,05M  |
+| **Muebles**                | $231,40M | $227,57M | $235,76M | $62,93M  |
+| **Instrumentos musicales** | $93,45M  | $111,72M | $119,38M | $24,22M  |
+| **Deportes y diversión**   | $45,83M  | $39,16M  | $45,91M  | $12,07M  |
+| **Juguetes**               | $21,95M  | $21,98M  | $24,18M  | $5,49M   |
+| **Artículos para el hogar**| $17,85M  | $17,13M  | $18,40M  | $4,21M   |
+| **Libros**                 | $11,65M  | $11,81M  | $10,90M  | $3,34M   |
+
+
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/Partic_xCat_xTda)
 
 
 
@@ -82,7 +106,6 @@ Tanto en el analisis acumulado como en detalle el orden de ingresos son Tienda_1
 
 
 
-- Cantidad de productos vendidos 📦
 - Calificación del cliente 🌟
 - Costo promedio de envío 🚚
 - Ticket promedio 💵
