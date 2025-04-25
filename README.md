@@ -90,7 +90,27 @@ Las cifras están expresadas en millones de pesos colombianos (COP).
 | **Libros**                 | $11,65M  | $11,81M  | $10,90M  | $3,34M   |
 
 
-![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/Partic_xCat_xTda)
+![Gráfico de Venta Mensual y media de tres meses](IMG/Partic_xCat_xTda.png)
+
+Como se ve claramente, las 4 primeras categorias se llevan mas del 94% de participacion, por lo que el análisis de las otras 4 categorias es irrelevante, el mismo comportamiento ocurre cuando se análiza el ticket promedio por categoria
+
+### 🛒 Detalle de Ventas por Categoría
+
+Este resumen muestra las unidades vendidas, las ventas totales en pesos colombianos y el ticket promedio por categoría.
+
+| Categoría del Producto     | Unidades Vendidas | Total Ventas (COP) | Ticket Promedio (COP) |
+|----------------------------|-------------------:|--------------------:|------------------------:|
+| **Electrodomésticos**      | 1,149              | $1,324,751,100      | $1,152,960              |
+| **Electrónicos**           | 1,772              | $1,660,576,500      | $937,120                |
+| **Instrumentos musicales** | 753                | $348,772,600        | $463,177                |
+| **Muebles**                | 1,886              | $757,661,000        | $401,729                |
+| **Deportes y diversión**   | 1,113              | $142,977,700        | $128,462                |
+| **Artículos para el hogar**| 730                | $57,579,800         | $78,876                 |
+| **Juguetes**               | 1,290              | $73,604,400         | $57,058                 |
+| **Libros**                 | 742                | $37,696,100         | $50,803                 |
+
+
+
 
 
 
