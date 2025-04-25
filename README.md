@@ -38,9 +38,9 @@ Este proyecto consiste en el análisis de ventas, facturación, categorias y pro
 4. **Cálculo de KPI**: Se calcularon los indicadores clave de desempeño para evaluar el rendimiento de cada tienda.
 
 
-# 📊 Informe Análisis de Ventas - ICDT+
+# 📊 Informe Análisis de Ventas
 
-Este informe evalúa el desempeño de las tiendas mediante un índice compuesto (ICDT+) que considera:
+Este informe evalúa el desempeño de las tiendas mediante un índice compuesto comenzaremos con:
 - Ventas en millones 💰
 Se analiza desde 2020, con foco especial en el desempeño desde 2022.
 
