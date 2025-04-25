@@ -262,9 +262,11 @@ Los electrodomésticos y electrónicos tienen los costos de envío más elevados
 
 # 📊 Indicador Compuesto ICDT+
 
-Este indicador resume el desempeño de cada tienda con base en múltiples dimensiones clave. Cada componente tiene un peso distinto dentro del cálculo final:
+Este indicador resume el rendimiento global de cada tienda combinando factores clave como ventas, volumen de productos vendidos, calidad de servicio, eficiencia logística y ticket promedio.
 
 - **ICDT+** = (Ventas_Totales × 0.40) + (Productos_Vendidos × 0.25) + (Calificación × 0.20) + ((1 - Costo_Envio) × 0.10) + (Ticket_Promedio × 0.05)
+
+- > **Nota:** A menor costo de envío, mayor impacto positivo en el ICDT+. Los valores han sido normalizados para obtener un puntaje final entre 0 y 1.
 
 ### Componentes:
 
@@ -277,56 +279,19 @@ Este indicador resume el desempeño de cada tienda con base en múltiples dimens
 | **Ticket_Promedio**  | Precio promedio por producto             | 💵 Valor por venta          | 0.05  |
 
 
+## 🧮 Indicador Compuesto de Desempeño (ICDT+)
+
+Este indicador resume el rendimiento global de cada tienda combinando factores clave como ventas, volumen de productos vendidos, calidad de servicio, eficiencia logística y ticket promedio.
+
+> **Nota:** A menor costo de envío, mayor impacto positivo en el ICDT+. Los valores han sido normalizados para obtener un puntaje final entre 0 y 1.
+
+### Resultados:
+
+... [tabla ICDT+ aquí]
 
 
 
 
-
-
-- Costo promedio de envío 🚚
-- Ticket promedio 💵
-
-
-## Gráficos y Resultados
-
-A continuación se presentan los gráficos y resultados clave del análisis:
-
-### Gráfico 1: Ventas por Tienda
-(img/
-
-
-![Gráfico de Ventas por Tienda.(IMG/10 prod bottom.png)
-
-
-Este gráfico muestra las ventas totales por tienda durante los diferentes trimestres del año.
-
-### Gráfico 2: Ticket Promedio por Tienda
-
-![Gráfico de Ticket Promedio](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
-
-Componentes del Indicador ICDT+
-	Variable 	Qué mide 	Interpretación 	Peso
-0 	Ventas_Totales 	Total en pesos vendidos (en millones) 	💰 Rentabilidad 	0.40
-1 	Productos_Vendidos 	Número total de artículos vendidos 	📦 Productividad 	0.25
-2 	Calificación_Promedio 	Promedio de calificación (1 a 5) 	🌟 Calidad de servicio 	0.20
-3 	Costo_Promedio_Envio 	Costo medio de envío por tienda 	🚚 Eficiencia logística 	0.10 (invertido: menor = mejor)
-4 	Ticket_Promedio 	Precio promedio por producto 	💵 Valor por venta 	0.05
-
-
-Este gráfico muestra el ticket promedio por tienda, lo que nos ayuda a evaluar el valor medio de cada compra.
-
-### Tabla 1: Resumen de Indicadores de Desempeño
-
-| Tienda  | Año  | Total Ventas | Productos Vendidos | Calificación Promedio | Ticket Promedio | ICDT+ |
-|---------|------|--------------|--------------------|-----------------------|-----------------|-------|
-| Tienda 1 | 2021 | $500,000     | 250                | 4.2                   | $100            | 0.87  |
-| Tienda 2 | 2021 | $400,000     | 200                | 3.8                   | $90             | 0.75  |
-
-### Conclusiones
-
-- **Tienda 1** mostró un mejor desempeño en términos de ventas y calificación promedio, lo que se refleja en un índice **ICDT+** más alto.
-- Las tiendas en general tienen un buen desempeño, pero se observa que el **Ticket Promedio** podría aumentar para mejorar el desempeño global.
-Instrucciones para ejecutar el notebook
 
 ## Instrucciones para Ejecutar el Proyecto
 
