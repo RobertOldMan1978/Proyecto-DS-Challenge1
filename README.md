@@ -249,16 +249,32 @@ Los electrodomésticos y electrónicos tienen los costos de envío más elevados
 | **Libros**                 | $2,776                         | 742              |
 
 
-# El costo promedio del envio de los productos esta dentro del rango del 5 al 6 porciento del articulo, por lo tanto su comportamiento es lineal al precio.
+## El costo promedio del envio de los productos esta dentro del rango del 5 al 6 porciento del articulo, por lo tanto su comportamiento es lineal al precio.
 
 ![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/porcentaje%20consto%20envio%20sobre%20venta.png)
 
 
 
-# La tienda numero 1 es la que maneja los costos mas altos de envio, sin embargo es consecuente a su nivel de venta, lo contrario pasa con la tienda numero 4
+## La tienda numero 1 es la que maneja los costos mas altos de envio, sin embargo es consecuente a su nivel de venta, lo contrario pasa con la tienda numero 4
 
 ![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/costo%20promedio%20evolucion%20media%20movil.png)
 
+
+# 📊 Indicador Compuesto ICDT+
+
+Este indicador resume el desempeño de cada tienda con base en múltiples dimensiones clave. Cada componente tiene un peso distinto dentro del cálculo final:
+
+- **ICDT+** = (Ventas_Totales × 0.40) + (Productos_Vendidos × 0.25) + (Calificación × 0.20) + ((1 - Costo_Envio) × 0.10) + (Ticket_Promedio × 0.05)
+
+### Componentes:
+
+| Variable             | ¿Qué mide?                              | Interpretación            | Peso  |
+|----------------------|------------------------------------------|----------------------------|-------:|
+| **Ventas_Totales**   | Total en pesos vendidos (en millones)    | 💰 Rentabilidad             | 0.40  |
+| **Productos_Vendidos** | Número total de artículos vendidos       | 📦 Productividad            | 0.25  |
+| **Calificación_Promedio** | Promedio de calificación (1 a 5)         | 🌟 Calidad de servicio       | 0.20  |
+| **Costo_Promedio_Envio** | Costo medio de envío por tienda         | 🚚 Eficiencia logística *(menor = mejor)* | 0.10  |
+| **Ticket_Promedio**  | Precio promedio por producto             | 💵 Valor por venta          | 0.05  |
 
 
 
