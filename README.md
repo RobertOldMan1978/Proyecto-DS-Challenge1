@@ -62,7 +62,10 @@ Se analiza desde 2020, con foco especial en el desempeño desde 2022.
 
 Tanto en el analisis acumulado como en detalle el orden de ingresos son Tienda_1 a Tienda_4 Descendente
 
-![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/10%20prod%20bottom.png)
+### Gráfico de Venta Mensual y media de tres meses
+
+![Gráfico de Venta Mensual y media de tres meses](https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/vta_mens_xtienda_barras.png)
+
 
 
 
