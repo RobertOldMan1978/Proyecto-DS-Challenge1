@@ -1,4 +1,5 @@
-![portada]https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/portada.png
+<img src="https://github.com/RobertOldMan1978/Proyecto-DS-Challenge1/blob/main/IMG/portada.png" alt="Análisis de Desempeño de Tiendas" style="width:100%;"/>
+
 
 # Proyecto-DS-Challenge1
 ## Primer Challenge de Data Science
